@@ -1,0 +1,8 @@
+D:\work\vs\CRM\Src\Common\CRM.Common\bin\Debug\netcoreapp3.0\CRM.Common.deps.json
+D:\work\vs\CRM\Src\Common\CRM.Common\bin\Debug\netcoreapp3.0\CRM.Common.dll
+D:\work\vs\CRM\Src\Common\CRM.Common\bin\Debug\netcoreapp3.0\CRM.Common.pdb
+D:\work\vs\CRM\Src\Common\CRM.Common\obj\Debug\netcoreapp3.0\CRM.Common.csprojAssemblyReference.cache
+D:\work\vs\CRM\Src\Common\CRM.Common\obj\Debug\netcoreapp3.0\CRM.Common.AssemblyInfoInputs.cache
+D:\work\vs\CRM\Src\Common\CRM.Common\obj\Debug\netcoreapp3.0\CRM.Common.AssemblyInfo.cs
+D:\work\vs\CRM\Src\Common\CRM.Common\obj\Debug\netcoreapp3.0\CRM.Common.dll
+D:\work\vs\CRM\Src\Common\CRM.Common\obj\Debug\netcoreapp3.0\CRM.Common.pdb

@@ -1,0 +1,3 @@
+D:\work\vs\CRM\Src\Infrastructure\CRM.Persistence\obj\Debug\netcoreapp3.0\CRM.Persistence.csprojAssemblyReference.cache
+D:\work\vs\CRM\Src\Infrastructure\CRM.Persistence\obj\Debug\netcoreapp3.0\CRM.Persistence.AssemblyInfoInputs.cache
+D:\work\vs\CRM\Src\Infrastructure\CRM.Persistence\obj\Debug\netcoreapp3.0\CRM.Persistence.AssemblyInfo.cs

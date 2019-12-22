@@ -1,0 +1,3 @@
+D:\work\vs\CRM\Src\Core\CRM.Domain\obj\Debug\netcoreapp3.0\CRM.Domain.csprojAssemblyReference.cache
+D:\work\vs\CRM\Src\Core\CRM.Domain\obj\Debug\netcoreapp3.0\CRM.Domain.AssemblyInfoInputs.cache
+D:\work\vs\CRM\Src\Core\CRM.Domain\obj\Debug\netcoreapp3.0\CRM.Domain.AssemblyInfo.cs
