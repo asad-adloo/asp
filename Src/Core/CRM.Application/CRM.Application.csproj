@@ -20,4 +20,10 @@
     <ProjectReference Include="..\CRM.Domain\CRM.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Invoices\Commends\Create\" />
+    <Folder Include="Invoices\Commends\Delete\" />
+    <Folder Include="Invoices\Commends\Update\" />
+  </ItemGroup>
+
 </Project>

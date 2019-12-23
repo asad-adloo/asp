@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\work\\vs\\CRM\\Src\\Core\\CRM.Domain\\CRM.Domain.csproj",
+      "projectUniqueName": "D:\\work\\vs\\CRM1\\Src\\Core\\CRM.Domain\\CRM.Domain.csproj",
       "projectName": "CRM.Domain",
-      "projectPath": "D:\\work\\vs\\CRM\\Src\\Core\\CRM.Domain\\CRM.Domain.csproj",
+      "projectPath": "D:\\work\\vs\\CRM1\\Src\\Core\\CRM.Domain\\CRM.Domain.csproj",
       "packagesPath": "C:\\Users\\adloo\\.nuget\\packages\\",
-      "outputPath": "D:\\work\\vs\\CRM\\Src\\Core\\CRM.Domain\\obj\\",
+      "outputPath": "D:\\work\\vs\\CRM1\\Src\\Core\\CRM.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adloo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\work\\vs\\CRM\\Src\\Common\\CRM.Common\\CRM.Common.csproj": {
-              "projectPath": "D:\\work\\vs\\CRM\\Src\\Common\\CRM.Common\\CRM.Common.csproj"
+            "D:\\work\\vs\\CRM1\\Src\\Common\\CRM.Common\\CRM.Common.csproj": {
+              "projectPath": "D:\\work\\vs\\CRM1\\Src\\Common\\CRM.Common\\CRM.Common.csproj"
             }
           }
         }
